@@ -17,6 +17,7 @@ prev_results.php?prodID= countrydomain
 bbs/view.php?no= countrydomain
 gnu/?doc= countrydomain
 zb/view.php?uid= countrydomain
+?movienr= countrydomain
 global/product/product.php?gubun= countrydomain
 m_view.php?ps_db= countrydomain
 productlist.php?tid= countrydomain
