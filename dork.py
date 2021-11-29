@@ -4,6 +4,11 @@ from dlist import dork
 
 os.system("cls") # clears the screen
 
+try:
+    os.system('title Z3NToX - Simple Dork Generator')  # title of the terminal window
+except:
+    pass
+   
 class color:
 
    PURPLE = '\033[95m'
